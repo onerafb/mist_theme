@@ -1,0 +1,38 @@
+{
+  "name": "mysticmist",
+  "displayName": "Mystic Mist",
+  "description": "mist",
+  "version": "0.0.1",
+  "publisher": "noxhill",
+  "engines": {
+    "vscode": "*"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "keywords": [
+    "theme",
+    "aftab",
+    "dark theme",
+    "nox",
+    "mystic mist theme",
+    "Mystic Mist Theme",
+    "mystic",
+    "mujawar",
+    "mystic Mist",
+    "Mystic mist"
+  ],
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Mystic Mist",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Mystic Mist-color-theme.json"
+      }
+    ]
+  }
+}
